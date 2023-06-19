@@ -1,2 +1,2 @@
 # experiment_07
-i an vaishnav of team RCB.
+i am vaishnav of team RCB.
